@@ -201,6 +201,7 @@ dependencies:
     - pyqt5-sip==12.9.0
     - pyrsistent==0.18.1
     - pyzmq==23.2.0
+    - scipy==1.8.1
     - setuptools==63.1.0
     - sip==6.5.1
     - terminado==0.15.0
